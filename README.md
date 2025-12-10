@@ -16,11 +16,11 @@ SITE CRIADO!!!
 Consertadas as proporções do NMI.
 
 ### v0.9:
-EXEs NOVOS: <br>
+##### EXEs NOVOS:
 Alucard <br>
 Rewrite <br>
 
-EXEs REFEITOS: <br>
+##### EXEs REFEITOS:
 2011X <br>
 Fleetway <br>
 Lord X <br>
