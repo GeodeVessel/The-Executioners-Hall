@@ -13,6 +13,8 @@ Dito isso, aproveitem a v1.0 do EXEs Hall e não se esqueçam...
 SITE CRIADO!!!
 
 #### BUG FIXES: 
+Adição de background e outlines de destaque nos EXEs; <br>
+Remoção dos "chãos" de base pra perspectiva; <br>
 Consertadas as proporções do NMI.
 
 ### v0.9 (09/12/25):
