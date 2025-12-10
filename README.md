@@ -16,17 +16,17 @@ BUG FIXES: <br>
 Consertadas as proporções do NMI.
 
 ### v0.9:
-EXEs NOVOS:
-Alucard
-Rewrite
+EXEs NOVOS: <br>
+Alucard <br>
+Rewrite <br>
 
-EXEs REFEITOS:
-2011X
-Fleetway
-Lord X
+EXEs REFEITOS: <br>
+2011X <br>
+Fleetway <br>
+Lord X <br>
 
-BUG FIXES:
-Consertados os títulos do Kolossos, Sonic.EYX, 2017X, FakerEXE, End, GenesisX e Korin!X;
-Consertadas as proporções do NMI, Sonic.EYX, Furnace, Starved, FakerEXE, GenesisX e Suture;
-Consertados os detalhamentos do Sonic.EYX, Furnace e Suture;
-Consertada a pose do 2017X.
+BUG FIXES: <br>
+Consertados os títulos do Kolossos, Sonic.EYX, 2017X, FakerEXE, End, GenesisX e Korin!X; <br>
+Consertadas as proporções do NMI, Sonic.EYX, Furnace, Starved, FakerEXE, GenesisX e Suture; <br>
+Consertados os detalhamentos do Sonic.EYX, Furnace e Suture; <br>
+Consertada a pose do 2017X. <br>
