@@ -12,15 +12,15 @@ Dito isso, aproveitem a v1.0 do EXEs Hall e não se esqueçam...
 
 SITE CRIADO!!!
 
-##### BUG FIXES: 
+#### BUG FIXES: 
 Consertadas as proporções do NMI.
 
 ### v0.9:
-##### EXEs NOVOS:
+#### EXEs NOVOS:
 Alucard <br>
 Rewrite <br>
 
-##### EXEs REFEITOS:
+#### EXEs REFEITOS:
 2011X <br>
 Fleetway <br>
 Lord X <br>
