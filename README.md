@@ -30,3 +30,29 @@ Consertados os títulos do Kolossos, Sonic.EYX, 2017X, FakerEXE, End, GenesisX e
 Consertadas as proporções do NMI, Sonic.EYX, Furnace, Starved, FakerEXE, GenesisX e Suture; <br>
 Consertados os detalhamentos do Sonic.EYX, Furnace e Suture; <br>
 Consertada a pose do 2017X. <br>
+
+### v0.8:
+EXEs NOVOS:
+Suture <br>
+MY5TCrimsonX <br>
+
+EXE REFEITO:
+Tripwire <br>
+
+BUG FIXES:
+Consertado o título do NMI. <br>
+
+### v0.7:
+EXEs NOVOS:
+All Father <br>
+Imperfect <br>
+
+EXE REFEITO:
+Kolossos <br>
+
+BUG FIXES:
+Consertado a altura dos titulos e do canvas; <br>
+Consertadas as proporções e a pose do GenesisX; <br>
+Aumentado o tamanho do NMI <br>
+
+
