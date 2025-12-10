@@ -45,10 +45,11 @@ Consertado o título do NMI. <br>
 ### v0.7: 
 #### EXEs NOVOS:
 All Father; <br>
-Imperfect. <br>
+Imperfect; <br>
+Starved.<br>
 
 #### EXE REFEITO:
-Kolossos. <br>
+Kolossos (v3). <br>
 
 #### BUG FIXES:
 Consertado a altura dos titulos e do canvas; <br>
@@ -61,7 +62,32 @@ Genesis X; <br>
 Korin!X. <br>
 
 #### BUG FIXES:
-Consertado a altura dos titulos e do canvas. <br>
+Consertada a altura dos titulos e do canvas. <br>
+
+### v0.5:
+#### EXEs NOVOS:
+Faker EXE; <br>
+END. <br>
+
+#### EXE REFEITO:
+Kolossos (v2). <br>
+
+#### BUG FIXES:
+Consertada a sola do sapato do Fleetway; <br>
+Consertada a luz do diamante da Tripwire; <br>
+Consertada a perspectiva nos sapatos do Lord X; <br>
+Consertado o braço clipando do NMI. <br>
+
+### v0.4:
+#### EXEs NOVOS:
+2017X; <br>
+Furnace. <br>
+
+### v0.3:
+#### EXEs NOVOS:
+Lord X; <br>
+No More Innocence; <br>
+Sonic.EYX. <br>
 
 
 
