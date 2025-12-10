@@ -8,14 +8,14 @@ Dito isso, aproveitem a v1.0 do EXEs Hall e não se esqueçam...
 
 ## Changelogs (do mais novo ao mais velho):
 
-### v1.0:
+### v1.0 (10/12/25):
 
 SITE CRIADO!!!
 
 #### BUG FIXES: 
 Consertadas as proporções do NMI.
 
-### v0.9:
+### v0.9 (09/12/25):
 #### EXEs NOVOS:
 Alucard; <br>
 Rewrite. <br>
@@ -31,7 +31,7 @@ Consertadas as proporções do NMI, Sonic.EYX, Furnace, Starved, FakerEXE, Genes
 Consertados os detalhamentos do Sonic.EYX, Furnace e Suture; <br>
 Consertada a pose do 2017X. <br>
 
-### v0.8:
+### v0.8 (04/12/25):
 #### EXEs NOVOS:
 Suture; <br>
 MY5TCrimsonX. <br>
@@ -40,9 +40,10 @@ MY5TCrimsonX. <br>
 Tripwire. <br>
 
 #### BUG FIXES:
-Consertado o título do NMI. <br>
+Consertado o título do NMI; <br>
+Atualizada a posição da Tripwire e do Fleetway na sequência de EXEs. <br>
 
-### v0.7: 
+### v0.7 (21/11/25): 
 #### EXEs NOVOS:
 All Father; <br>
 Imperfect; <br>
@@ -56,7 +57,7 @@ Consertado a altura dos titulos e do canvas; <br>
 Consertadas as proporções e a pose do GenesisX; <br>
 Aumentado o tamanho do NMI. <br>
 
-### v0.6:
+### v0.6 (18/11/25):
 #### EXEs NOVOS:
 Genesis X; <br>
 Korin!X. <br>
@@ -64,7 +65,7 @@ Korin!X. <br>
 #### BUG FIXES:
 Consertada a altura dos titulos e do canvas. <br>
 
-### v0.5:
+### v0.5 (08/11/25):
 #### EXEs NOVOS:
 Faker EXE; <br>
 END. <br>
@@ -78,16 +79,26 @@ Consertada a luz do diamante da Tripwire; <br>
 Consertada a perspectiva nos sapatos do Lord X; <br>
 Consertado o braço clipando do NMI. <br>
 
-### v0.4:
+### v0.4 (04/11/25):
 #### EXEs NOVOS:
 2017X; <br>
 Furnace. <br>
 
-### v0.3:
+#### BUG FIXES:
+Oficialização do nome "The Executioners' Hall". <br>
+
+### v0.3 (02/11/25):
 #### EXEs NOVOS:
 Lord X; <br>
 No More Innocence; <br>
 Sonic.EYX. <br>
 
+### v0.2 (02/11/25):
+#### EXEs NOVOS:
+Fleetway; <br>
+Tripwire. <br>
 
-
+### v0.1 (01/11/25):
+#### EXEs NOVOS:
+2011X; <br>
+Kolossos. <br>
