@@ -32,25 +32,25 @@ Consertados os detalhamentos do Sonic.EYX, Furnace e Suture; <br>
 Consertada a pose do 2017X. <br>
 
 ### v0.8:
-EXEs NOVOS:
+EXEs NOVOS: <br>
 Suture <br>
 MY5TCrimsonX <br>
 
-EXE REFEITO:
+EXE REFEITO: <br>
 Tripwire <br>
 
-BUG FIXES:
+BUG FIXES: <br>
 Consertado o título do NMI. <br>
 
-### v0.7:
-EXEs NOVOS:
+### v0.7: 
+EXEs NOVOS: <br>
 All Father <br>
 Imperfect <br>
 
-EXE REFEITO:
+EXE REFEITO: <br>
 Kolossos <br>
 
-BUG FIXES:
+BUG FIXES: <br>
 Consertado a altura dos titulos e do canvas; <br>
 Consertadas as proporções e a pose do GenesisX; <br>
 Aumentado o tamanho do NMI <br>
