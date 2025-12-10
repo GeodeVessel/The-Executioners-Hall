@@ -12,7 +12,7 @@ Dito isso, aproveitem a v1.0 do EXEs Hall e não se esqueçam...
 
 SITE CRIADO!!!
 
-BUG FIXES: 
+BUG FIXES: <br>
 Consertadas as proporções do NMI.
 
 ### v0.9:
