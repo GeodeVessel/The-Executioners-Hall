@@ -1,0 +1,93 @@
+:root {
+    --title-color: rgb(197, 10, 72);
+    --standart-bg: rgb(0, 0, 0);
+    --text-color: rgb(255, 0, 0);
+    --mog-color: rgb(121, 14, 14);
+}
+
+body {
+    background-image: url(img/giygasTest.gif);
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    margin: 0px;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.big-guys {
+    margin-top: 50vh;
+}
+
+.titulo {
+    font-family: "DM Serif Text", sans-serif;
+    background-color: var(--standart-bg);
+    color: var(--title-color);
+    font-size: 100px;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+.big-image {
+    max-width: 100%;
+    margin-bottom: 30vh;
+    border: 2px solid var(--title-color);
+}
+
+.container-secundario {
+    margin-bottom: 10em;
+}
+
+.secundario__imagem {
+    width: 80%;
+    border: 2px solid var(--title-color);
+}
+
+.secundario {
+    height: 75vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.descricao__titulo {
+    font-family: "Homemade Apple", sans-serif;
+    align-items: center;
+    font-weight: 700;
+    font-size: 80px;
+    color: var(--title-color);
+    margin-bottom: 0.1em;
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+             1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+}
+
+.descricao__texto {
+    font-family: "Rubik Glitch", sans-serif;
+    font-size: 26px;
+    align-items: center;
+    color: var(--text-color);
+    background-color: var(--standart-bg);
+    justify-content: start;
+}
+
+.moggamento {
+    font-family: "Rubik Glitch", sans-serif;
+    font-size: 18px;
+    align-items: center;
+    color: var(--mog-color);
+    background-color: var(--standart-bg);
+    justify-content: start;
+}
+
+.meme__imagem {
+    width: 50%;
+    margin-bottom: 10px;
+}
