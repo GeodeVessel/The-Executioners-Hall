@@ -17,13 +17,13 @@ Consertadas as proporções do NMI.
 
 ### v0.9:
 #### EXEs NOVOS:
-Alucard <br>
-Rewrite <br>
+Alucard; <br>
+Rewrite. <br>
 
 #### EXEs REFEITOS:
-2011X <br>
-Fleetway <br>
-Lord X <br>
+2011X; <br>
+Fleetway; <br>
+Lord X. <br>
 
 #### BUG FIXES:
 Consertados os títulos do Kolossos, Sonic.EYX, 2017X, FakerEXE, End, GenesisX e Korin!X; <br>
@@ -33,26 +33,35 @@ Consertada a pose do 2017X. <br>
 
 ### v0.8:
 #### EXEs NOVOS:
-Suture <br>
-MY5TCrimsonX <br>
+Suture; <br>
+MY5TCrimsonX. <br>
 
 #### EXE REFEITO:
-Tripwire <br>
+Tripwire. <br>
 
 #### BUG FIXES:
 Consertado o título do NMI. <br>
 
 ### v0.7: 
 #### EXEs NOVOS:
-All Father <br>
-Imperfect <br>
+All Father; <br>
+Imperfect. <br>
 
 #### EXE REFEITO:
-Kolossos <br>
+Kolossos. <br>
 
 #### BUG FIXES:
 Consertado a altura dos titulos e do canvas; <br>
 Consertadas as proporções e a pose do GenesisX; <br>
-Aumentado o tamanho do NMI <br>
+Aumentado o tamanho do NMI. <br>
+
+### v0.6:
+#### EXEs NOVOS:
+Genesis X; <br>
+Korin!X. <br>
+
+#### BUG FIXES:
+Consertado a altura dos titulos e do canvas. <br>
+
 
 
